@@ -4,7 +4,7 @@ If you want to use the dataset of spells, feel free to use it (a little bit of c
 
 Some inetresting generated spells are:
 
-*tonfringo
++tonfring
 
 *descenda
 
@@ -22,4 +22,4 @@ Some inetresting generated spells are:
 
 *prior incartocte
 
-and more!
+*and more!
