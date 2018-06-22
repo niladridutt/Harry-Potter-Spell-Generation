@@ -4,7 +4,7 @@ If you want to use the dataset of spells, feel free to use it (a little bit of c
 
 Some inetresting generated spells are:
 
-+tonfring
+*tonfring
 
 *descenda
 
